@@ -64,7 +64,7 @@ I'm passionate about building high-quality software, solving complex engineering
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Matan-Adar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Matan-Adar&show_icons=true&theme=github_dark)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Matan-Adar&theme=dark&hide_border=false)
 
