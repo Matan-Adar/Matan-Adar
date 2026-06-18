@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Matan Adar
-
 ## 💫 About Me
 
 I'm a **Mobile Application Developer** with a **B.Sc. in Computer Science**, currently developing production-ready cross-platform health-tech applications at **Yopi**.
